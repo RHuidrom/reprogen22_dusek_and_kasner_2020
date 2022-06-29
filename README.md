@@ -1,4 +1,4 @@
-# reprogen22_dusek_and_kasner_2020
+# reprogen22_on_dusek_and_kasner_2020_paper
 
 This repository contains the resources available for the ReproGen 2022 paper titled, "Two Reproductions of a Human-Assessed Comparative Evaluation of a Semantic Error Detection System".
 
